@@ -79,10 +79,6 @@ h3 {
     height: 840px;
     margin: -34px auto 0px auto;
 }
-
-
-
-
 .models {
     width: 1150px;
     margin: 0 auto 150px auto;
@@ -101,7 +97,6 @@ h3 {
     line-height: 93.52%;
     position: absolute;
 }
-
 .model-item a {
     text-decoration: none;
     color: #ffffff;
@@ -111,7 +106,7 @@ h3 {
     bottom: 50px;
     left: 50px;
     font-size: 25px;
-    line-height: 30px;
+    line-height: 109px;
     text-align: center;
     letter-spacing: -0.03em;
     text-transform: uppercase;
@@ -133,6 +128,37 @@ h3 {
 .model-item:nth-child(2) {
     margin-bottom: 0px;
 }
+
+
+.functions {
+    min-width: 1150px;
+    height: 786px;
+    margin: 0 auto 150px auto;
+    background-image: url(../images/two-heads.png);
+    background-repeat: no-repeat;
+    position: relative;
+}
+.functions-inner {
+    width: 1150px;
+    margin: 0 auto;
+}
+.functions h2{
+    margin-bottom: 39px;
+    color: #FF25C2;
+    position: absolute;
+    top: 320px;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 73.52%;
+    text-align: center;
+    letter-spacing: -0.06em;
+}  
+
+
+
+
+
+
 
 
 
