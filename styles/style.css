@@ -101,6 +101,7 @@ h3 {
     line-height: 93.52%;
     position: absolute;
 }
+
 .model-item a {
     text-decoration: none;
     color: #ffffff;
@@ -114,12 +115,20 @@ h3 {
     text-align: center;
     letter-spacing: -0.03em;
     text-transform: uppercase;
+    box-sizing: border-box;
+    width: 420px;
 }
 .model-item a:hover {
     color: #FF25C2;
+    border: 1px solid #FF25C2;
 }
 .model-item img {
     border-radius: 30px;
+}
+.model-icon {
+    position: absolute;
+    bottom: 191px;
+    left: 50px;
 }
 .model-item:nth-child(2) {
     margin-bottom: 0px;
