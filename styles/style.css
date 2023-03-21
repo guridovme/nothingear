@@ -98,12 +98,22 @@ h3 {
     top: 50px;
     width: 375px;
     height: 112px;
+    line-height: 93.52%;
+    position: absolute;
 }
 .model-item a {
     text-decoration: none;
     color: #ffffff;
     border: 1px solid #FFFFFF;
     border-radius: 100px;
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
 }
 .model-item a:hover {
     color: #FF25C2;
@@ -111,7 +121,7 @@ h3 {
 .model-item img {
     border-radius: 30px;
 }
-.model-item:nth-child(1) {
+.model-item:nth-child(2) {
     margin-bottom: 0px;
 }
 
