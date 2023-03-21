@@ -74,7 +74,11 @@ h3 {
     height: 103px;
     margin: 0 auto;
 }
-
+.first-screen-inner {
+    background-image: url(../images/first-screen.png);
+    width: 819px;
+    height: 840px;
+}
 
 
 
