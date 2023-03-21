@@ -35,18 +35,17 @@ h3 {
     letter-spacing: -0.03em;
 }
 .header {
-    position: relative;
+    
     width: 1150px;
     margin: 0 auto;
     min-width: 1150px;
+    text-align: center;
 }
-.menu {
-    display: inline-block;
-    position: absolute;
-    top: 33px;
-    right: 0px;
+.menu{
+    margin: 44px 0px 60px 0px;
 }
 .menu li{
+    margin-right: 44px;
     font-size: 18px;
     line-height: 22px;
     letter-spacing: -0.03em;
@@ -58,39 +57,22 @@ h3 {
     text-decoration: none;
 }
 .menu a:hover {
-    color: #1BFF07;
+    color: #FF25C2;
 }  
 .menu a:active {
-    color: #1BFF07;
+    color: #FF25C2;
 }  
 .first-screen {
-    height: 765px;
-    background-image: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%), url(../images/first_screen.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    margin-bottom: 150px;
+    
 }
 .first-screen-inner {
-    width: 1150px;
-    box-sizing: border-box;
-    position: relative;
-    margin: 0 auto;
+    
 }
 .first-screen p {
-    position: absolute;
-    top: 334px;
-    width: 430px;
-    Height: 103px;
-    color: #ffffff;
-    margin-bottom: 29px;
+    
 }
 .first-screen h1 {
-    width: 919px;
-    height: 205px;
-    top: 466px;
-    position: absolute;
-    margin-left: -5px;
+    
 }
 .projects {
     width: 1150px;
