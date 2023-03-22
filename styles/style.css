@@ -174,7 +174,7 @@ h3 {
     margin: 0 auto 150px auto;
 }
 .trainings h2{
-    margin-bottom: 80px;
+    padding-bottom: 80px;
     font-weight: 700;
     font-size: 100px;
     line-height: 73.52%;
@@ -182,20 +182,20 @@ h3 {
     letter-spacing: -0.06em;
     color: #FF25C2;
     width: 676px;
+    margin: 0 auto;
 }
-.training-item {
-    width: 507px;
-    margin-bottom: 80px;
-}
-.competence-item img{
+.trainings img{
     margin-bottom: 20px;
+    display: block;
+    margin: 0 auto;
 }    
-.competence-item p {
+.trainings p {
     font-size: 25px;
-line-height: 30px;
-text-align: center;
-width: 507px;
-margin-bottom: 80px;
+    line-height: 30px;
+    text-align: center;
+    width: 507px;
+    padding-bottom: 80px;
+    margin: 0 auto;
 }
 
 
