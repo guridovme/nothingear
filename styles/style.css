@@ -128,8 +128,6 @@ h3 {
 .model-item:nth-child(2) {
     margin-bottom: 0px;
 }
-
-
 .functions {
     min-width: 1150px;
     height: 786px;
@@ -177,6 +175,13 @@ h3 {
 }
 .trainings h2{
     margin-bottom: 80px;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 73.52%;
+    text-align: center;
+    letter-spacing: -0.06em;
+    color: #FF25C2;
+    width: 676px;
 }
 .training-item {
     width: 507px;
@@ -189,6 +194,7 @@ h3 {
     font-size: 25px;
 line-height: 30px;
 text-align: center;
+width: 507px;
 }
 
 
