@@ -263,8 +263,15 @@ h3 {
     height: 450px;
     border-radius: 30px;
     background-image: url(../images/clear-sound.png);
+    margin-bottom: 110px;
 }
-
+.clear-sound-inner p{
+    margin: 0 auto;
+    width: 475px;
+    height: 60px;
+    position: absolute;
+    bottom: 50px;
+}
 
 
 
