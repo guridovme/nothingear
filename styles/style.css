@@ -137,76 +137,56 @@ h3 {
     background-image: url(../images/two-heads.png);
     background-repeat: no-repeat;
     position: relative;
+    background-size: cover;
 }
 .functions-inner {
     width: 1150px;
     margin: 0 auto;
 }
 .functions h2{
-    margin-bottom: 39px;
+    margin: 0px auto;
     color: #FF25C2;
-    position: absolute;
-    top: 320px;
     font-weight: 700;
     font-size: 100px;
-    line-height: 73.52%;
-    text-align: center;
     letter-spacing: -0.06em;
+    width: 560px;
+    padding: 190px 0 39px 0;
 }  
-
-
-
-
-
-
-
-
-
-.see-all-projects {
-    width: 582px;
-    height: 153px;
-    box-sizing: border-box;
-    display: block;
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 153px;
-    text-align: center;
-    color: #000;
-    text-decoration: none;    
-    letter-spacing: -0.03em;
-    background: #1BFF07;
-    border-radius: 4.67354px;
+.functions p{
+    width: 671px
 }
-.see-all-projects:hover {
-    background-color: #000;
-    color: #1BFF07;
-    border: 1px solid #1BFF07;
-}
-.competencies {
+
+
+
+
+
+
+
+
+
+.trainings {
     width: 1150px;
     margin: 0 auto 150px auto;
 }
-.competencies h2{
-    margin-bottom: 48px;
+.trainings h2{
+    margin-bottom: 80px;
 }
-.competence-item {
-    width: 778px;
-    margin-bottom: 60px;
+.training-item {
+    width: 507px;
+    margin-bottom: 80px;
 }
 .competence-item img{
-    margin-bottom: 12px;
+    margin-bottom: 20px;
 }    
-.competence-item h3 {
-    font-size: 35px;
-    line-height: 46px;
-    letter-spacing: -0.03em;
-    color: #1BFF07;
-    margin-bottom: 15px;
-}
 .competence-item p {
-    font-size: 22px;
-    line-height: 29px;
+    font-size: 25px;
+line-height: 30px;
+text-align: center;
 }
+
+
+
+
 .services{
     width: 1150px;
     margin: 0 auto 150px auto;
