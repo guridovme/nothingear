@@ -235,8 +235,13 @@ h3 {
     text-transform: uppercase;
     box-sizing: border-box;
     width: 866px;
+    margin: 0 auto;
+    display: block;
 }
-
+.clear-voice a:hover {
+    color: #FF25C2;
+    border: 1px solid #FF25C2;
+}
 
 
 
