@@ -165,7 +165,6 @@ h3 {
     margin: 150px auto;
 }
 .trainings h2{
-    padding-bottom: 83px;
     font-weight: 700;
     font-size: 100px;
     line-height: 73.52%;
@@ -176,7 +175,8 @@ h3 {
     margin: 0 auto;
 }
 .trainings img{
-    padding-bottom: 20px;
+    padding-top: 80px;
+    padding-bottom: 21px;
     display: block;
     margin: 0 auto;
 }    
@@ -185,12 +185,9 @@ h3 {
     line-height: 30px;
     text-align: center;
     width: 507px;
-    padding-bottom: 80px;
     margin: 0 auto;
 }
-.trainings p:nth-child(1) {
-    padding-bottom: 0px;
-}
+
 
 
 
@@ -216,12 +213,15 @@ h3 {
     margin: 0 auto;
 }
 .clear-voice p{
-    font-size: 45px;
-    line-height: 90%;
-    text-align: center;
     width: 942px;
     padding-bottom: 60px;
     margin: 0 auto;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 90%;
+    text-align: center;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
 }
 
 .clear-voice a {
