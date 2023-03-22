@@ -278,7 +278,8 @@ h2 {
 
 .contacts {
     min-width: 1150px;
-    margin: 60px auto 200px auto;
+    margin: 0 auto;
+    padding: 60px 0px 200px 0px;
 }
 .contacts-inner {
     width: 1150px;
