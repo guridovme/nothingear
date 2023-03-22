@@ -262,6 +262,11 @@ h2 {
     position: relative;
 }
 .clear-sound-inner p{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
     width: 475px;
     height: 60px;
     position: absolute;
@@ -290,6 +295,7 @@ h2 {
     line-height: 73.52%;
     text-align: center;
     letter-spacing: -0.06em;
+    display: inline-block;
 } 
 .contacts a {
     color: #FFFFFF;
