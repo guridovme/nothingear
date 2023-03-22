@@ -165,7 +165,7 @@ h3 {
     margin: 150px auto;
 }
 .trainings h2{
-    padding-bottom: 80px;
+    padding-bottom: 83px;
     font-weight: 700;
     font-size: 100px;
     line-height: 73.52%;
@@ -220,7 +220,9 @@ h3 {
     padding-bottom: 60px;
     margin: 0 auto;
 }
-
+.clear-voice p:nth-child(2) {
+    padding-bottom: 0px;
+}
 .clear-voice a {
     text-decoration: none;
     color: #ffffff;
