@@ -205,7 +205,7 @@ h3 {
     width: 1150px;
     font-weight: 700;
     font-size: 100px;
-    line-height: 73.52%;
+    line-height: 74px;
     text-align: center;
     letter-spacing: -0.06em;
     color: #FFFFFF;
@@ -218,7 +218,7 @@ h3 {
     margin: 0 auto;
     font-weight: 700;
     font-size: 45px;
-    line-height: 90%;
+    line-height: 40px;
     text-align: center;
     letter-spacing: -0.06em;
     color: #FFFFFF;
@@ -243,27 +243,33 @@ h3 {
     color: #FF25C2;
     border: 1px solid #FF25C2;
 }
-
-
-
-
-
-
-
-
-
-
-
-.service-item {
+.clear-sound {
     width: 1150px;
-    margin-bottom: 74px;
+    padding-top: 150px;
+} 
+.clear-sound h2{
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 73.52%;
+    text-align: center;
+    letter-spacing: -0.06em;
+    color: #FFFFFF;
+    padding-bottom: 100px;
 }
-.service-item img {
+.clear-sound img {
     width: 1150px;
-    height: 200px;
+    height: 450px;
     border-radius: 30px;
-    vertical-align: top;
 }
+
+
+
+
+
+
+
+
+
 .service-item-back {
     width: 1150px;
     height: 283px;
@@ -271,15 +277,7 @@ h3 {
     border-radius: 30px;
     position: relative;
 }
-.service-item h3{
-    font-size: 55px;
-    line-height: 72px;
-    color: #1BFF07;
-    top:40px;
-    left: 40px;
-    margin-bottom: 15px;
-    position: absolute;
-}
+
 .service-item p{
     font-size: 22px;
     line-height: 29px;
