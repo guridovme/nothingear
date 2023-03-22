@@ -274,8 +274,6 @@ h2 {
     text-align: center;
     left: 317px;
 }
-
-
 .contacts {
     min-width: 1150px;
     margin: 0 auto;
@@ -286,7 +284,6 @@ h2 {
     margin: 0 auto;
     position: relative;
 }
- 
 .contacts ul {
     text-align: center;
     position: absolute;
@@ -313,13 +310,15 @@ h2 {
 }  
 
 
-
-
-
-
-
+.footer {
+    margin: 0 auto;
+}
+.footer-inner{
+    width: 1150px;
+    margin: 0 auto;
+}
 .footer-menu{
-    margin: 44px 0px 60px 0px;
+    padding: 44px 0px 60px 0px;
 }
 .footer-menu li{
     margin: 0px 22px 0px 20px;
@@ -339,31 +338,14 @@ h2 {
 .footer-menu a:active {
     color: #FF25C2;
 }  
-
-
-
-
-.footer {
-    margin: 0 auto;
-    border-radius: 30px 30px 0px 0px;
-    
-    height: 222px;
-}
-.footer-inner{
-    width: 1150px;
-    margin: 0 auto;
-}
-.footer-text{
-    font-size: 22px;
-    line-height: 30px;
-    letter-spacing: -0.03em;
-    
-    top: 76px;
-}
 .copyright {
-    font-size: 20px;
-    line-height: 27px;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
     letter-spacing: -0.03em;
-    opacity: 0.5;
-    
+    color: #FF25C2;
 }
+
+
+
+
