@@ -31,10 +31,6 @@ h2 {
     line-height: 72px;
     letter-spacing: -0.05em;
 }
-h3 {
-    font-size: 30px;
-    letter-spacing: -0.03em;
-}
 .header {
     width: 1150px;
     margin: 0 auto;
@@ -312,7 +308,27 @@ h3 {
 
 
 
-
+.footer-menu{
+    margin: 44px 0px 60px 0px;
+}
+.footer-menu li{
+    margin: 0px 22px 0px 20px;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: -0.03em;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.footer-menu a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.footer-menu a:hover {
+    color: #FF25C2;
+}  
+.footer-menu a:active {
+    color: #FF25C2;
+}  
 
 
 
