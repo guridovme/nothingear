@@ -246,15 +246,17 @@ h3 {
 .clear-sound {
     width: 1150px;
     padding-top: 150px;
+    margin: 0 auto;
 } 
 .clear-sound h2{
     font-weight: 700;
     font-size: 100px;
-    line-height: 73.52%;
+    line-height: 74px;
     text-align: center;
     letter-spacing: -0.06em;
     color: #FFFFFF;
     padding-bottom: 100px;
+    margin-left: -32px;
 }
 .clear-sound img {
     width: 1150px;
