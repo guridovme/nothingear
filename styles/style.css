@@ -150,10 +150,17 @@ h3 {
     font-size: 100px;
     letter-spacing: -0.06em;
     width: 560px;
-    padding: 190px 0 39px 0;
+    padding: 193px 0 39px 0;
+    text-align: center;
 }  
 .functions p{
-    width: 671px
+    width: 671px;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    padding-bottom: 39px;
+    margin: 0px auto;
 }
 
 
