@@ -308,11 +308,6 @@ h2 {
 .contacts a:active {
     color: #FF25C2;
 }  
-
-
-
-
-
 .footer {
     width: 1150px;
     margin: 0 auto;
@@ -343,9 +338,10 @@ h2 {
 .copyright {
     font-weight: 700;
     font-size: 35px;
-    line-height: 42px;
+    line-height: 34px;
     letter-spacing: -0.03em;
     color: #FF25C2;
+    margin-bottom: 52px;
 }
 
 
