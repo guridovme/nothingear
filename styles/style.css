@@ -228,16 +228,13 @@ h3 {
     color: #ffffff;
     border: 1px solid #FFFFFF;
     border-radius: 100px;
-    position: absolute;
-    bottom: 50px;
-    left: 50px;
     font-size: 25px;
     line-height: 109px;
     text-align: center;
     letter-spacing: -0.03em;
     text-transform: uppercase;
     box-sizing: border-box;
-    width: 420px;
+    width: 866px;
 }
 
 
