@@ -202,14 +202,15 @@ h3 {
     background-size: cover;
 }
 .clear-voice h2{
+    width: 1150px;
     font-weight: 700;
     font-size: 100px;
     line-height: 73.52%;
     text-align: center;
     letter-spacing: -0.06em;
     color: #FFFFFF;
-    padding-top: 130px 0px 40px 0px;
-    
+    padding: 130px 0px 40px 0px;
+    margin: 0 auto;
 }
 .clear-voice p{
     font-size: 45px;
@@ -217,6 +218,7 @@ h3 {
     text-align: center;
     width: 942px;
     padding-bottom: 60px;
+    margin: 0 auto;
 }
 
 .clear-voice a {
